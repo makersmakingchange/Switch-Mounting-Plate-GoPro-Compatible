@@ -1,5 +1,6 @@
-Version 0.1 | YYYY-mmm-DD
- - Initial Prototype
+Version 1.0 | 2024-May-27
+ - Initial release, including design files, print files, and photos
+ - Initial documentation including BOM, Maker Guide, User Guide, and Summary
 
 
 

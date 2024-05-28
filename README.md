@@ -1,52 +1,23 @@
 
-<!--- 
-Open Source Assistive Technology: GitHub Readme Template
-Version 1.1 (2024-Mar-15)
- --->
+<!--- Open Source Assistive Technology: GitHub Readme Template Version 1.1 (2024-Mar-15)  --->
 
-<!--- 
-Introductory text. This section and the following text should be removed.
- --->
-This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. More information about how to use the template is available in the [Documentation_Guide](/Documentation_Guide.docx). You can see examples of other Open AT Devices at the Makers Making Change [website](https://www.makersmakingchange.com/s/category/assistive-devices). 
+<!--- TITLE Should match the name of the GitHub repository. Choose something descriptive rather than whimsical.  --->
+# Switch Plate - GoPro Compatible
 
-<!---
-INSTRUCTIONS
-This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
+<!---  SUMMARY A brief summary of the project. What it does, who it is for, how much it costs.  --->
+The Switch Plate - GoPro Compatible is a cost-effective option for mounting assistive switches. The Switch Plate has a flat surface to which an assistive switch can be attached using hook and loop fastener (e.g., VELCRO). The rear portion of the Switch Plate has a GoPro-compatible mounting interface so the mounting plate can be used with commercially available [GoPro](https://gopro.com/en/ca/) mounting accessories. 
 
-This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
+This device is comprised of a single 3D printed part. The overall cost of materials is about $1. This does not include the cost of the GoPro-compatible mounting accessory and additional mounting hardware.
 
-This template has a number of fields that can be searched and replaced with other text:
- - <Device_Name> Replace this with filename-friendly version of the device with underscores. e.g., Open_Wobble_Switch
- - <DeviceName> Replace this with the human-readable name of the device with spaces. e.g., Open Wobble Switch
- - <DesignerName> Replace this with the person or organization responsible for the design. e.g., John Doe.
- - <RepositoryLink> Replace this with the web address for the repository. e.g., (e.g., https://github.com/makersmakingchange/Open-Wobble-Switch))
- - <MMCWebLink> This is an alphanumeric id for the Makers Making Change Website. e.g., 01tJR000000698oYAA. This will come from MMC staff. 
- --->
- 
- <!--- 
-TITLE
-Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
- --->
-# <DeviceName>
+The Switch Plate - GoPro Compatible is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
+Last updated: 2024-May-27. 
+The latest version is V1.0. This version has been built and is in use with at least one user.
 
+<img src="Photos/Switch_Plate_GoPro_Compatible.jpg" width="500" alt="A 3D printed Switch Plate - GoPro Compatible connected to a Loc-Line mount attached to a table.">
 
-<!--- 
-SUMMARY
-A brief summary of the project. What it does, who it is for, how much it costs.
- --->
-The <DeviceName> is an assistive technology widget that makes it easier to document Open-Source Assistive Technology devices. 
-
-It is intended for use by makers. 
-
-The device is comprised of off-the-shelf electronics and 3D printed parts. 
-
-The overall cost of materials is about $<MaterialCost> (plus $<ShippingCost> for component shipping).
-
-<img src="Photos/<Device_Name>.jpg" width="500" alt="Picture of <DeviceName>.">
-
-## More info at
-- [Makers Making Change Assistive Device Library Listing](<MMCWebLink>)
+## Makers Making Change Assistive Device Library
+- https://www.makersmakingchange.com/s/product/switch-plate-(gopro-compatible)/01tJR000000TbKMYA0
 
 ## How to Obtain the Device
 ### 1. Do-it-Yourself (DIY) or Do-it-Together (DIT)
@@ -66,21 +37,21 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The [Maker Guide](/Documentation/Switch_Plate_GoPro_Compatible_Maker_Guide.pdf) contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/<Device_Name>_BOM.xlsx) lists all of the parts and components required to build the device.
+The [Bill of Materials](/Documentation/Switch_Plate_GoPro_Compatible_BOM.xlsx) lists the parts and components required to build the device.
 
 
 ### 3. Print the 3D Printable components
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
-### 4. Assemble the <DeviceName>
+### 4. Assemble the Switch Plate - GoPro Compatible
 
-Reference the [Assembly Guide](/Documentation/<Device_Name>_Assembly_Guide.pdf) for the tools and steps required to build each portion.
+Reference the Assembly Guide section in the [Maker Guide](/Documentation/Switch_Plate_GoPro_Compatible_Maker_Guide.pdf) for the tools and steps required to build the device. 
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
@@ -89,28 +60,26 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [<DeviceName>_Design_Rationale](/Documentation/<Device_Name>_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [<DeviceName>_Maker_Checklist](/Documentation/<Device_Name>_Maker_Guide.pdf)     |
-| Bill of Materials    | 1.0     | [<DeviceName>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     |
-| User Guide           | 1.0     | [<DeviceName>_User_Guide](/Documentation/<Device_Name>_Quick_Guide.pdf)    |
+| Design Rationale     | 1.0     | [Switch_Plate_GoPro_Compatible_Design_Rationale](/Documentation/Switch_Plate_GoPro_Compatible_Design_Rationale.pdf)     |
+| Maker Guide          | 1.0     | [Switch_Plate_GoPro_Compatible_Maker_Guide](/Documentation/Switch_Plate_GoPro_Compatible_Maker_Guide.pdf)     |
+| Bill of Materials    | 1.0     | [Switch_Plate_GoPro_Compatible_Bill_of_Materials](/Documentation/Switch_Plate_GoPro_Compatible_BOM.csv)     |
+| User Guide           | 1.0     | [Switch_Plate_GoPro_Compatible_User_Guide](/Documentation/Switch_Plate_GoPro_Compatible_User_Guide.pdf)    |
 | Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
 
 ### Design Files
-<!---
-DESIGN FILES
+<!--- DESIGN FILES
 Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP)
 --->
  - [CAD Files](/Design_Files/CAD_Design_Files)
- - [PCB Files](/Design_Files/PCB_Design_Files)
+<!--- - [PCB Files](/Design_Files/PCB_Design_Files) --->
 
-<!---
-BUILD FILES
+<!--- BUILD FILES
 Include a copy of the build files intended for manufacturing. This may include svg files for laser cutting, stl files for 3d printing, Gerber files for custom PCBs, and Arduino files for custom firmware
 --->
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
- - [PCB Build Files](/Build_Files/PCB_Build_Files)
- - [Firmware Files](/Build/Firmware_Files)
+<!--- - [PCB Build Files](/Build_Files/PCB_Build_Files) --->
+<!--- - [Firmware Files](/Build/Firmware_Files) --->
 
 <!---
 ATTRIBUTION
@@ -118,11 +87,7 @@ Provide any necessary attribution for designs or components that are included in
 --->
 ## Attribution
 
-The device was designed by <DesignerName>. 
-
-<!---
-This is the attribution for the template.
---->
+<!--- This is the attribution for the template. --->
 The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: [https://github.com/makersmakingchange/OpenAT-Template](https://github.com/makersmakingchange/OpenAT-Template)
 
 <!---
@@ -131,9 +96,8 @@ List the names of the people that contributed to the design. This could include 
 --->
 ### Contributors
 
-Designers:
- - Designer 1 
- - Designer 2
+ - Anna Millbourn. Design and photos.
+ - Jake McIvor. Neil Squire Society / Makers Making Change. Documentation.
 
 
 <!---
@@ -141,19 +105,15 @@ LICENSE
 Add the year(s) for the copyright and the Designer Name. You may use the standard set of open licenses or choose your own for the hardware, software, and accompanying materials.
 --->
 ## License
-Copyright (c) YYYY <DesignerName>.
+Design Copyright (c) 2024 Anna Millbourn. 
 
-This repository describes Open Hardware:
- - Everything needed or used to design, make, test, or prepare the <Device-Name> is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
- - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
- - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <Device-Name> are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
+The design is made available using a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-You may redistribute and modify this documentation and make products using it under the terms of the [CERN-OHL-W v2](https://cern.ch/cern-ohl).
-This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
-Please see the CERN-OHL-W v2 for applicable conditions.
+Documentation Copyright (c) 2024 Neil Squire Society.
 
-Source Location: <Repository_Link> 
+Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Switch Mount - GoPro Compatible are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
 
+Source Location: https://github.com/makersmakingchange/Switch-Mounting-Plate-GoPro-Compatible
 
 ---
 

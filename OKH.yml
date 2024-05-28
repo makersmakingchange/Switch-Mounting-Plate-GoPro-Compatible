@@ -1,0 +1,53 @@
+title: Switch Plate - GoPro Compatible
+description: "A 3D printable mounting plate ideal for individuals looking for a
+  cost-effective way of mounting an assistive switch and hoping to utilize
+  readily available GoPro mounting accessories."
+intended-use: Provides a flat surface for mounting an assistive switch and connecting it to
+  a GoPro compatible mounting accessory.
+keywords:
+  - disability
+  - openAT
+  - mounting
+  - assistive-switch
+project-link: https://github.com/makersmakingchange/Switch-Mounting-Plate-GoPro-Compatible
+image: https://github.com/makersmakingchange/Switch-Mounting-Plate-GoPro-Compatible/Photos/Switch_Plate_GoPro_Compatible.jpg
+made: true
+made-independently: true
+license:
+  hardware: CC-BY-SA-4.0
+  documentation: CC-BY-SA-4.0
+licensor:
+  name: Anna Millbourn
+okh-manifest-version: 1.0.0
+date-created: 2024-05-27
+date-updated: 2024-05-27
+manifest-author:
+  name: Jake McIvor
+  affiliation: Neil Squire Society
+  email: jakem@neilsquire.ca
+manifest-language: en-CA
+contact:
+  name: Makers Making Change
+  affiliation: Neil Squire Society
+  email: info@makersmakingchange.com
+contributors:
+  - name: Anna Millbourn
+  - name: Jake McIvor
+    affiliation: Neil Squire Society
+    email: jakem@neilsquire.ca
+version: "1.0"
+development-stage: product
+documentation-home: "https://github.com/makersmakingchange/Switch-Mounting-Plate-GoPro-Compatible "
+archive-download: "https://github.com/makersmakingchange/Switch-Mounting-Plate-GoPro-Compatible\
+  /archive/refs/heads/main.zip "
+documentation-language: en-CA
+bom: https://github.com/makersmakingchange/Switch-Mounting-Plate-GoPro-Compatible/Documentation/Switch_Plate_GoPro_Compatible_BOM.csv
+making-instructions:
+  - path: https://github.com/makersmakingchange/Switch-Mounting-Plate-GoPro-Compatible/Documentation/Switch_Plate_GoPro_Compatible_Maker_Guide.pdf
+    title: Switch_Plate_GoPro_Compatible_Maker_Guide
+manufacturing-files:
+  - path: https://github.com/makersmakingchange/Switch-Mounting-Plate-GoPro-Compatible/Build_Files/3D_Printing_Files
+    title: 3D Printing Files
+operating-instructions:
+  - path: https://github.com/makersmakingchange/Switch-Mounting-Plate-GoPro-Compatible/Documentation/Switch_Plate_GoPro_Compatible_User_Guide.pdf
+    title: Switch_Plate_GoPro_Compatible_User_Guide
