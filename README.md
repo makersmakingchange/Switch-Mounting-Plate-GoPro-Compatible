@@ -97,6 +97,10 @@ List the names of the people that contributed to the design. This could include 
 ### Contributors
 
  - Anna Millbourn. Design and photos.
+ - Michael Camarda. Conceptualization and delivery.
+ - Zoey Clontz. Conceptualization and delivery.
+ - Dana Mumaw. Conceptualization and delivery.
+ - Courtney Welch. Conceptualization and delivery.
  - Jake McIvor. Neil Squire Society / Makers Making Change. Documentation.
 
 
